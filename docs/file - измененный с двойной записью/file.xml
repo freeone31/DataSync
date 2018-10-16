@@ -1,0 +1,97 @@
+<Results>
+	<Row>
+		<DEPCODE>Новый отдел</DEPCODE>
+		<DEPJOB>Младший сотрудник</DEPJOB>
+		<DESCRIPTION>В отпуске</DESCRIPTION>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел аналитики</DEPCODE>
+		<DEPJOB>Старший аналитик</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел аналитики</DEPCODE>
+		<DEPJOB>Ведущий аналитик</DEPJOB>
+		<DESCRIPTION>Лентяй</DESCRIPTION>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел аналитики</DEPCODE>
+		<DEPJOB>Главный аналитик</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Новый отдел</DEPCODE>
+		<DEPJOB>Старший сотрудник</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел разработки</DEPCODE>
+		<DEPJOB>Старший разработчик</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел разработки</DEPCODE>
+		<DEPJOB>Ведущий разработчик</DEPJOB>
+		<DESCRIPTION>Повысили</DESCRIPTION>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел разработки</DEPCODE>
+		<DEPJOB>Главный разработчик</DEPJOB>
+		<DESCRIPTION>На больничном</DESCRIPTION>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел разработки</DEPCODE>
+		<DEPJOB>Начальник отдела</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел разработки</DEPCODE>
+		<DEPJOB>Супербосс</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Новый отдел</DEPCODE>
+		<DEPJOB>Ведущий сотрудник</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел тестирования</DEPCODE>
+		<DEPJOB>Старший тестировщик</DEPJOB>
+		<DESCRIPTION>Проснулся</DESCRIPTION>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел тестирования</DEPCODE>
+		<DEPJOB>Ведущий тестировщик</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел тестирования</DEPCODE>
+		<DEPJOB>Начальник отдела</DEPJOB>
+		<DESCRIPTION>Вернулся</DESCRIPTION>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел тестирования</DEPCODE>
+		<DEPJOB>Супербосс</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел кадров</DEPCODE>
+		<DEPJOB>Младший кадровик</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел кадров</DEPCODE>
+		<DEPJOB>Старший кадровик</DEPJOB>
+		<DESCRIPTION>Родил</DESCRIPTION>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел кадров</DEPCODE>
+		<DEPJOB>Ведущий кадровик</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел кадров</DEPCODE>
+		<DEPJOB>Главный кадровик</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел кадров</DEPCODE>
+		<DEPJOB>Начальник отдела</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел кадров</DEPCODE>
+		<DEPJOB>Супербосс</DEPJOB>
+	</Row>
+	<Row>
+		<DEPCODE>Отдел кадров</DEPCODE>
+		<DEPJOB>Начальник отдела</DEPJOB>
+	</Row>
+</Results>
